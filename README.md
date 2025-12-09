@@ -38,8 +38,8 @@ This textbook provides a comprehensive introduction to Physical AI and Humanoid 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/physical-ai-textbook.git
-cd physical-ai-textbook
+git clone https://github.com/ravishfayyaz555/new_book.git
+cd new_book
 ```
 
 ### 2. Frontend Setup
