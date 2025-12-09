@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://yourusername.github.io',
+  url: 'https://ravishfayyaz555.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'yourusername', // Usually your GitHub org/user name.
-  projectName: 'my-book', // Usually your repo name.
+  organizationName: 'ravishfayyaz555', // Usually your GitHub org/user name.
+  projectName: 'new_book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -54,7 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Hammad-Ali07/Physical-AI-Humanoid-Robotics/tree/main/website/',
+            'https://github.com/ravishfayyaz555/new_book/tree/main/website/',
         },
         blog: false,
         theme: {
@@ -84,7 +84,7 @@ const config: Config = {
           label: 'Chapters',
         },
         {
-          href: 'https://github.com/Hammad-Ali07/Physical-AI-Humanoid-Robotics',
+          href: 'https://github.com/ravishfayyaz555/new_book',
           label: 'GitHub',
           position: 'right',
         },
@@ -128,7 +128,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Hammad-Ali07/Physical-AI-Humanoid-Robotics',
+              href: 'https://github.com/ravishfayyaz555/new_book',
             },
           ],
         },
